@@ -89,3 +89,4 @@ Get the Redis thing and Sarama:
 ### Links
 
 - https://github.com/saveav/banku
+- Getting syntax highlighting vim https://superuser.com/questions/252865/vim-with-colors-on-mac-command-line
