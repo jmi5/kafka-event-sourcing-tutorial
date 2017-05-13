@@ -1,5 +1,9 @@
 # kafka-event-sourcing-tutorial
 
+<!-- <img src="images/Writing_and_Testing_Event_Sourcing_Service_with_Kafka_in_Go.png" alt="Drawing" style="width: 200px;"/> -->
+
+![](images/Writing_and_Testing_Event_Sourcing_Service_with_Kafka_in_Go.png | width=100)
+
 ### Intro
 This repo is the result of some code from following along with this link: https://semaphoreci.com/community/tutorials/writing-and-testing-an-event-sourcing-microservice-with-kafka-and-go. 
 
